@@ -2,6 +2,8 @@
 
 This repository provides a **Bash-based interactive tool** for viewing and staging/unstaging Git changes using **`fzf`** and **`delta`**.
 
+![Interactive Git FZF Preview](screenshot.png)
+
 ---
 
 ## Features
@@ -70,27 +72,6 @@ Run the script inside a Git repository:
 
    * By default, only modified files are shown.
    * When typing in `fzf`, untracked files are included in the search results.
-
----
-
-## Adding Screenshots
-
-To include screenshots of the UI in this Markdown file:
-
-1. Place your screenshot file (e.g., `screenshot.png`) in the repository.
-2. Add a Markdown image reference where you want it displayed:
-
-```markdown
-![Interactive Git FZF Preview](preview.png)
-```
-
-Example:
-
-```markdown
-## Example UI
-
-![Interactive Git FZF Preview](preview.png)
-```
 
 ---
 
