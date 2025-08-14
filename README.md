@@ -81,7 +81,7 @@ To include screenshots of the UI in this Markdown file:
 2. Add a Markdown image reference where you want it displayed:
 
 ```markdown
-![Interactive Git FZF Preview](screenshot.png)
+![Interactive Git FZF Preview](preview.png)
 ```
 
 Example:
@@ -89,7 +89,7 @@ Example:
 ```markdown
 ## Example UI
 
-![Interactive Git FZF Preview](screenshot.png)
+![Interactive Git FZF Preview](preview.png)
 ```
 
 ---
